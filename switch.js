@@ -1,5 +1,5 @@
-const number = "2";
-switch(number) {
+const no = "2";
+switch(no) {
     case "1":
         console.log("Sunday");
         break;

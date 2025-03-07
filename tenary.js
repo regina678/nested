@@ -1,12 +1,12 @@
-const number = 11;
-const no = number  ===1 ? console.log("Sunday") : 
-           number === 2 ? console.log("Monday") : 
-           number === 3 ? console.log("Tuesday") : 
-           number === 4 ? console.log("Wednesday") : 
-           number  === 5 ? console.log("Thursday") : 
-           number === 6 ? console.log("Friday") : 
-           number  === 7 ? console.log("Saturday") :  console.log("Out of bounds exception");
-console.log(no);
+const nos = 11;
+const nob = nos  ===1 ? console.log("Sunday") : 
+           nos === 2 ? console.log("Monday") : 
+           nos === 3 ? console.log("Tuesday") : 
+           nos === 4 ? console.log("Wednesday") : 
+           nos  === 5 ? console.log("Thursday") : 
+           nos === 6 ? console.log("Friday") : 
+           nos  === 7 ? console.log("Saturday") :  console.log("Out of bounds exception");
+console.log(nob);
 
 
 const age =75;
